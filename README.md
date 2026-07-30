@@ -8,7 +8,7 @@ Churn quantifies the number of users who have uninstalled the Waze app or stoppe
 ## Data Source 📖
 
 **Dataset**: Waze Dataset from Google Advanced Data Analytics Professional Certificate
-**Source**: [Data.gov](https://www.kaggle.com/datasets/jakubpolcsk/waze-dataset)
+**Source**: [Kaggle](https://www.kaggle.com/datasets/jakubpolcsk/waze-dataset)
 
 
 
