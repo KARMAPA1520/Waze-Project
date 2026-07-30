@@ -4,11 +4,11 @@ Waze’s free navigation app makes it easier for drivers around the world to get
  ## This project focuses on monthly user churn.
 Churn quantifies the number of users who have uninstalled the Waze app or stopped using the app. Developing a churn prediction model will help prevent churn, improve user retention, and grow Waze’s business. An accurate model can also help identify specific factors that contribute to churn and answer questions such as: 
 
-Who are the users most likely to churn?
+☝️Who are the users most likely to churn?
 
-Why do users churn? 
+☝️Why do users churn? 
 
-When do users churn? 
+☝️When do users churn? 
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
