@@ -65,5 +65,5 @@ who will consume the final model.
 
 📄 **[Read the full project proposal →](docs/project_proposal.md)**
 
-
+![PACE milestones](assets/pace_milestones.png)
 
