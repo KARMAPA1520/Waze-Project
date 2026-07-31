@@ -61,9 +61,4 @@ has a predictable home.
 Frame the churn problem, define success criteria, and identify the stakeholders 
 who will consume the final model.
 
-**Deliverable:** overview and goal of the project
-
-📄 **[Read the full project proposal →](docs/project_proposal.md)**
-
-![PACE milestones](assets/pace_milestones.png)
 
